@@ -1,6 +1,6 @@
 # reactjs-step-component-02
 
-`this is a react-app and part of a react tutorial`
+## `this is a react-app and part of a react tutorial`
 
 This repo is an exercise to get familiarize with ReactJS.
 
